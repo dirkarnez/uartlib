@@ -16,6 +16,7 @@ UARTIBRD UARTFBRD | UBRR0L
 
 ### ARM
 - [PrimeCell UART (PL011) Technical Reference Manual r1p5](https://developer.arm.com/documentation/ddi0183/g/programmers-model/summary-of-registers?lang=en)
+- [QEMU AArch64 Virt Bare Bones - OSDev Wiki](https://wiki.osdev.org/QEMU_AArch64_Virt_Bare_Bones#boot.s)
 - [LPC2138微控制器之UART - 者旨於陽 - 博客园](https://www.cnblogs.com/justin-y-lin/p/12340711.html)
 - [ARM UART Library - | Mbed](https://os.mbed.com/teams/Embedded-System/wiki/ARM-UART-Library)
 - [baremetal-arm/src/06_uart/src/uart_pl011.c at master · umanovskis/baremetal-arm](https://github.com/umanovskis/baremetal-arm/blob/master/src/06_uart/src/uart_pl011.c)
