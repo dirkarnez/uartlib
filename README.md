@@ -11,6 +11,9 @@ interrupt =  | RXCIEn
 
 UARTIBRD UARTFBRD | UBRR0L
 ```
+### Reference
+-  [UART Device - RT-Thread document center](https://www.rt-thread.io/document/site/programming-manual/device/uart/uart/)
+
 ### AVR
 - [Arduino uart AVR-GCC](https://gist.github.com/Bouni/b96ce85f16d9863392ab)
 
