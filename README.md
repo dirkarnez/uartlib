@@ -1,5 +1,7 @@
 uartlib
 =======
+### Notes
+- STM32 and ARM have different register mapping
 
 ```
 data register = UART[x]DR | UDR[x]
